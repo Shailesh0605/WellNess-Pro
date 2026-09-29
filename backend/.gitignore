@@ -1,0 +1,11 @@
+.env
+dev.db
+*.db
+*.db-*
+*.db.*
+node_modules/
+/.next
+sqlite-dll-win-x64-3500400/
+npm-debug.log
+dist/
+*.log

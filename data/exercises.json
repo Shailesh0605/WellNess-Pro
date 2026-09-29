@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Push-Up",
+    "muscles": ["Chest", "Triceps", "Shoulders"],
+    "equipment": "None",
+    "video": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+  },
+  {
+    "name": "Squat",
+    "muscles": ["Quadriceps", "Glutes", "Hamstrings"],
+    "equipment": "None",
+    "video": "https://www.youtube.com/watch?v=aclHkVaku9U"
+  },
+  {
+    "name": "Plank",
+    "muscles": ["Core", "Shoulders"],
+    "equipment": "None",
+    "video": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "name": "Dumbbell Curl",
+    "muscles": ["Biceps"],
+    "equipment": "Dumbbells",
+    "video": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "name": "Lunges",
+    "muscles": ["Quadriceps", "Glutes", "Hamstrings"],
+    "equipment": "None",
+    "video": "https://www.youtube.com/watch?v=QOVaHwm-Q6U"
+  },
+  {
+    "name": "Strength Training (Upper Body)",
+    "muscles": ["Chest", "Shoulders", "Triceps"],
+    "equipment": "Dumbbells",
+    "video": "https://www.youtube.com/watch?v=2z8JmcrW-As"
+  },
+  {
+    "name": "Strength Training (Lower Body)",
+    "muscles": ["Quadriceps", "Glutes", "Hamstrings"],
+    "equipment": "None",
+    "video": "https://www.youtube.com/watch?v=1xMaFs0L3ao"
+  },
+  {
+    "name": "45 min Running (moderate pace)",
+    "muscles": ["Cardiovascular"],
+    "equipment": "None",
+    "video": "https://www.youtube.com/watch?v=3eZ5b3Xv6iY"
+  },
+  {
+    "name": "30 min Cardio (Swimming or Elliptical)",
+    "muscles": ["Cardiovascular"],
+    "equipment": "Elliptical or Pool",
+    "video": "https://www.youtube.com/watch?v=4Z9b6j2e5Xk"
+  },
+  {
+    "name": "Rest or Gentle Yoga",
+    "muscles": ["Flexibility"],
+    "equipment": "Yoga Mat",
+    "video": "https://www.youtube.com/watch?v=v7AYKMP6rOE"
+  },
+  {
+    "name": "Strength Training (Chest & Triceps) - Heavy weights",
+    "muscles": ["Chest", "Triceps"],
+    "equipment": "Dumbbells",
+    "video": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+  },
+  {
+    "name": "Strength Training (Back & Biceps) - Heavy weights",
+    "muscles": ["Back", "Biceps"],
+    "equipment": "Dumbbells",
+    "video": "https://www.youtube.com/watch?v=aclHkVaku9U"
+  },
+  {
+    "name": "20 min Light Cardio + Stretching",
+    "muscles": ["Cardiovascular", "Flexibility"],
+    "equipment": "None",
+    "video": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "name": "Strength Training (Legs & Glutes) - Heavy weights",
+    "muscles": ["Quadriceps", "Glutes"],
+    "equipment": "Barbell",
+    "video": "https://www.youtube.com/watch?v=1xMaFs0L3ao"
+  },
+  {
+    "name": "Strength Training (Shoulders & Core)",
+    "muscles": ["Shoulders", "Core"],
+    "equipment": "Dumbbells",
+    "video": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "name": "Full Body Compound Exercises",
+    "muscles": ["Full Body"],
+    "equipment": "Barbell",
+    "video": "https://www.youtube.com/watch?v=4Z9b6j2e5Xk"
+  },
+  {
+    "name": "Rest or Light Yoga",
+    "muscles": ["Flexibility"],
+    "equipment": "Yoga Mat",
+    "video": "https://www.youtube.com/watch?v=v7AYKMP6rOE"
+  }
+]
